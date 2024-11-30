@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CRSBX1
+- 👋 Hi, I’m @Antoni Lawrence
 - 👀 I’m interested in machine learning, artificial intelligence
-- 🌱 I’m currently learning python, javascript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python, javascript, R
+- 💞️ I’m looking to collaborate on machine learning models
 - 📫 How to reach me ...
 
 <!---
